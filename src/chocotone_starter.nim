@@ -1,4 +1,16 @@
-# This is just a simple Chocotone Project Starter
+# Chocotone is an Open Source framework
+# for building beautiful macOS native desktop applications.
+# 
+# This is a Starter Project for building cool Desktop Native Applications
+#
+# (c) 2021 Chocotone is released under MIT License
+#          Developed by Humans from OpenPeep
+#          
+#          Website https://openpeep.ro
+#          Github links:
+#               https://github.com/chocotone
+#               https://github.com/openpeep
+
 import chocotone/framework
 
 when isMainModule:
